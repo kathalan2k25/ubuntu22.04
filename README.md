@@ -1,5 +1,5 @@
 
-#@ VM user and pass
+# VM user and pass
 #### username:- root
 
 #### password:- root
