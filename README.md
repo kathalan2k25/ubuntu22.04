@@ -1,11 +1,11 @@
 
-# VM user and pass
-## username:- root
+## VM user and pass
+### username:- root
 
-## password:- root
+### password:- root
 
 # Installation
-## Clone the repository
+*** ## Clone the repository
 ### git clone https://github.com/kathalan2k25/ubuntu22.04
 
 ### cd ubuntu22.04
@@ -15,4 +15,4 @@
 
 ## Run the container
 
-### docker run --privileged -p 6080:6080 -p 2221:2222 -v $PWD/vmdata:/data ubuntu-vm
+### docker run --privileged -p 6080:6080 -p 2221:2222 -v $PWD/vmdata:/data ubuntu-vm ***
